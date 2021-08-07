@@ -1,2 +1,1 @@
-# testprint
-test test test
+Print("Eggs")
